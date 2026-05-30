@@ -2,7 +2,7 @@
 
 Proyecto integrador de Programación Orientada a Objetos desarrollado en Java.
 
-#Descripción
+# Descripción
 Aplicación para administrar eventos y venta de boletos, aplicando herencia, 
 polimorfismo, excepciones personalizadas y persistencia mediante archivos .txt.
 
